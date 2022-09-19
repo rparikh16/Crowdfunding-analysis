@@ -1,6 +1,6 @@
 # Crowdfunding-analysis
  
-The purpoe of this analysis was to structure the raw data given to us in a readable format to draw out conclusions for the client.
+The purpose of this analysis was to structure the raw data given to us in a readable format to draw out conclusions for the client.
 Analysis was performed using filters, pivot tables, charts, and formulas
 Challenges for this project included filtering out useful info from irrelevant info, experimenting with the pivot table to produce the most readable data, and drawing out unbiased conclusions from the data 
 The most successful theater campaigns were launched in the month of May, and by December the amount of successful campaigns were about the same at the amount of failed campaigns. 
